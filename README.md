@@ -28,6 +28,7 @@ The Game Directory Script is a versatile tool for automating the management and 
 
 - This project is written in Python and requires Python 3.x.
 - No external dependencies beyond standard Python libraries are needed.
+- Go must be installed.
 
 ## Contributing
 
